@@ -11,5 +11,6 @@ public class SpringBootES {
         SpringApplication.run(SpringBootES.class, args);
         System.out.println();
         System.out.println("123");
+        System.out.println("dev");
     }
 }
