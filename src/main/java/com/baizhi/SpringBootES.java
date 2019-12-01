@@ -10,5 +10,6 @@ public class SpringBootES {
     public static void main(String[] args) {
         SpringApplication.run(SpringBootES.class, args);
         System.out.println();
+        System.out.println("123");
     }
 }
