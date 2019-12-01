@@ -9,5 +9,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SpringBootES {
     public static void main(String[] args) {
         SpringApplication.run(SpringBootES.class, args);
+        System.out.println();
     }
 }
